@@ -16,24 +16,9 @@ In deze repository vind je 2 oefeningen terug. De oefeningen staan beschreven in
 
 **Voor je aan de oefeningen begint** lees je eerst het hoofdstuk over [API's](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-intro), [ThunderClient](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/02.a-thunder-client) en het [blackbox-principe](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-blackbox). Daarna installeer je de VS Code Extension genaamd ['ThunderClient'](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client).
 
-### 🛠️ Opdrachten
-
-<details>
-<summary>opdracht </summary>
-
-> 
-
-</details>
-
----
-
-## 💡 Belangrijke Termen
-
-Term  | Definitie 
----   | ---       
- | 
-
-
 ## 📚 Bronnen
 
-- 
+- [cursus](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-intro)
+- API https://swapi.dev met alle Starwars personages
+- API https://randomuser.me met een random user generator
+- API https://pokeapi.co met alle info omtrent Pokemons
