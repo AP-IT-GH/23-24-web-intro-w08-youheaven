@@ -6,7 +6,7 @@ Tijdens de lessen van deze week leer je:
  - wat een API is,
  - wat JavaScript is,
  - de `<script>` tag gebruiken,
- - hoe werken met software die API's uitleest
+ - hoe werken met software die API's uitleest,
  - wat het Blackbox-principe is en
  - hoe je data uit een API ophaalt.
 
