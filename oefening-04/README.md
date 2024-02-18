@@ -2,10 +2,9 @@
 
 ## 🛠️ opdrachten
 
-### ThunderClient of Postman opstarten
+### Postman opstarten
 
- - [ ] Klik op het ThunderClient icoontje om ThunderClient te openen.
- - [ ] Als je het icoontje niet vindt, controleer dan of je ThunderClient (correct) geïnstalleerd hebt.
+ - [ ] Start Postman.
 
 ### endpoints opzoeken
 

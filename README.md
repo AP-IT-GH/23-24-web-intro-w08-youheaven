@@ -6,7 +6,7 @@ Tijdens de lessen van deze week leer je:
  - wat een API is,
  - wat JavaScript is,
  - de `<script>` tag gebruiken,
- - hoe werken met software die API's uitleest,
+ - hoe werken met software die API's uitleest (vb. Postman),
  - wat het Blackbox-principe is en
  - hoe je data uit een API ophaalt.
 
@@ -17,10 +17,9 @@ In deze repository vind je 2 oefeningen terug. De oefeningen staan beschreven in
 **tip: Voor je aan de oefeningen begint** lees je eerst volgende info door:
  - [API's](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-intro)
  - [blackbox-principe](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-blackbox)
- - [ThunderClient](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/02.a-thunder-client)
  - [Postman](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-postman)
 
- Daarna installeer je de VS Code Extension genaamd ['ThunderClient'](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) en/of [Postman](https://www.postman.com/downloads)
+ Daarna installeer je [Postman](https://www.postman.com/downloads)
 
 ## 📚 bronnen
 
