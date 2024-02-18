@@ -1,24 +1,30 @@
-# 💻 LES: W7 - API's en ThunderClient
+# 💻 08. API's
 
-## 🥅 Overzicht en Leerdoelen
+## 🥅 overzicht en leerdoelen
 
 Tijdens de lessen van deze week leer je:
- - Wat een API is
- - Wat Javascript is
- - De `<script>` tag gebruiken
- - Hoe ThunderClient werkt
- - Wat het Blackbox principe is
- - Hoe je data uit een API ophaalt
+ - wat een API is,
+ - wat JavaScript is,
+ - de `<script>` tag gebruiken,
+ - hoe werken met software die API's uitleest
+ - wat het Blackbox-principe is en
+ - hoe je data uit een API ophaalt.
 
-## 🔍 API's en ThunderClient
+## 🔍 API's uitlezen
 
 In deze repository vind je 2 oefeningen terug. De oefeningen staan beschreven in het bestand `README.md` *in de map van de oefening zelf*.
 
-**Voor je aan de oefeningen begint** lees je eerst het hoofdstuk over [API's](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-intro), [ThunderClient](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/02.a-thunder-client) en het [blackbox-principe](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-blackbox). Daarna installeer je de VS Code Extension genaamd ['ThunderClient'](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client).
+**tip: Voor je aan de oefeningen begint** lees je eerst volgende info door:
+ - [API's](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-intro)
+ - [blackbox-principe](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-blackbox)
+ - [ThunderClient](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/02.a-thunder-client)
+ - [Postman](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-postman)
 
-## 📚 Bronnen
+ Daarna installeer je de VS Code Extension genaamd ['ThunderClient'](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) en/of [Postman](https://www.postman.com/downloads)
 
-- [cursus](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-intro)
+## 📚 bronnen
+
+- [AP cursus Webtechnologie (API)](https://apwt.gitbook.io/g_webtechnologie/apis-essentials/api-intro)
 - API https://swapi.dev met alle Starwars personages
 - API https://randomuser.me met een random user generator
 - API https://pokeapi.co met alle info omtrent Pokemons

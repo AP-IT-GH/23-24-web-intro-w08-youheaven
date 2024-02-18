@@ -1,12 +1,12 @@
-# 💻 LES: W7 - API's en ThunderClient - Oefening 04
+# 💻 08. API's uitlezen > oefening 04
 
-## 🛠️ Opdrachten
+## 🛠️ opdrachten
 
-### ThunderClient opstarten
+### ThunderClient of Postman opstarten
 
  - [ ] Klik op het ThunderClient icoontje om ThunderClient te openen.
-   - Als je het icoontje niet vindt, controleer dan of je ThunderClient (correct) geinstalleerd hebt.
+ - [ ] Als je het icoontje niet vindt, controleer dan of je ThunderClient (correct) geïnstalleerd hebt.
 
-### Endpoints opzoeken
+### endpoints opzoeken
 
- - [ ] Zoek minstens 3 endpoints op van de API die je hebt gekozen voor je langlopende taak
+ - [ ] Zoek minstens 3 endpoints op van de API die je hebt gekozen voor je langlopende taak.
