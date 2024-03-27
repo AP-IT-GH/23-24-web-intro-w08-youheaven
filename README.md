@@ -12,7 +12,7 @@ Tijdens de lessen van deze week leer je:
 
 ## 🔍 API's uitlezen
 
-In deze repository vind je 4 oefeningen terug. De oefeningen staan beschreven in het bestand `README.md` *in de map van de oefening zelf*.
+In deze repository vind je 6 oefeningen terug. De oefeningen staan beschreven in het bestand `README.md` *in de map van de oefening zelf*.
 
 **tip: Voor je aan de oefeningen begint** lees je eerst volgende info door:
  - [API's](https://apwt.gitbook.io/webtechnologie/asynchroon-programmeren/wat-is-een-api)
@@ -27,3 +27,4 @@ In deze repository vind je 4 oefeningen terug. De oefeningen staan beschreven in
 - API https://swapi.dev met alle Starwars personages
 - API https://randomuser.me met een random user generator
 - API https://pokeapi.co met alle info omtrent Pokemons
+- API https://jsonplaceholder.typicode.com met fake content

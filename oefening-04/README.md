@@ -4,8 +4,11 @@
 
 ### Postman opstarten
 
- - [ ] Start Postman.
+ - Start Postman.
 
 ### endpoints opzoeken
 
- - [ ] Zoek minstens 3 endpoints op van de API die je hebt gekozen voor je langlopende taak.
+ - Ga op zoek naar een geschikte API die in lijn ligt van jouw topic voor jouw langlopende taak.
+ - Zoek minstens 3 endpoints op van de API.
+
+ *Schrijf hier de 3 endpoints op.*
