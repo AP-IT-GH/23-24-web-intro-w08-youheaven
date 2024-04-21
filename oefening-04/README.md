@@ -11,4 +11,6 @@
  - Ga op zoek naar een geschikte API die in lijn ligt van jouw topic voor jouw langlopende taak.
  - Zoek minstens 3 endpoints op van de API.
 
- *Schrijf hier de 3 endpoints op.*
+ https://maps.googleapis.com/maps/api/embed/v1/view1
+ https://image-charts.com/chart
+ https://graph.microsoft.com

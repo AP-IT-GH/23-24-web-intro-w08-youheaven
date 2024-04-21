@@ -23,7 +23,11 @@
    bv. `https://wouterpeetermans.com/iot-programming/api/users/2`
  - Schrijf de response op die je ontvangt. Let daarbij specifiek op de waarde van "state".
 
-*Schrijf hier je response op.*
+{
+    "firstname": "Gino",
+    "lastname": "Sinnaeve",
+    "email": "gino.sinnaeve@student.ap.be"
+}
 
 ### POST-request
 
